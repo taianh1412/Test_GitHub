@@ -33,11 +33,11 @@ public class JFrame extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jButton1.setText("jButton1");
+        jButton1.setText("Click me");
 
-        jLabel1.setText("jLabel1");
+        jLabel1.setText("I'm lable");
 
-        jTextField1.setText("jTextField1");
+        jTextField1.setText("Typing ");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
