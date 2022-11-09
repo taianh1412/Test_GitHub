@@ -10,5 +10,7 @@ package test_github;
  * @author Nguyễn Anh Tài
  */
 public class Hello {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
 }
